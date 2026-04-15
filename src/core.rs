@@ -1,7 +1,7 @@
 //! FROST2 / FROST2-variant core logic (curve-agnostic).
 //!
 //! Implements threshold Schnorr signing flow:
-//! - Setup / centralized key generation (CKG) with Shamir sharing
+//! - Setup / Distibuted key generation (DKG) with Shamir sharing
 //! - SPP: per-signer preprocessing token generation
 //! - LR: leader request construction
 //! - PS: partial signing by each signer
