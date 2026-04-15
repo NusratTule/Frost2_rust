@@ -71,4 +71,4 @@ frost2_rust/
 
 ## Output
 
-The program prints a comparison table in MJCA TABLE 3 format with mean, median, and standard deviation for each phase (setup, keygen, preprocess, signing, combining, verifying, preprocess per participant, signing per participant) across all five variants.
+The program prints a comparison table with mean, median, and standard deviation for each phase (setup, keygen, preprocess, signing, combining, verifying, preprocess per participant, signing per participant) across all five variants.
